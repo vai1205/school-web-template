@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+boltcloud.co.in	TRUE	/	FALSE	1999999999	ASP.NET_SessionId	bum0dm55yz3pemqie2k1tavd
+

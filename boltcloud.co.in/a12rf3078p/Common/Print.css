@@ -1,0 +1,71 @@
+﻿*
+{
+	font-family :Arial ;
+	font-size :12px;
+	color:#051E2F; 
+}
+body
+{
+	margin: 0;
+	padding: 0 0 0 0;
+	/*background-color: #A9CED6;*/
+	background-image:url('../Images/bg.jpg');
+	
+}
+a img
+{
+	border:none;	
+}
+
+h1
+{
+	font-size:30px;
+	color:Black;
+}
+h2
+{
+	font-size:15px;
+	color:Black;
+}
+table
+{
+	border-collapse:collapse;
+	border:solid 1px Gray;
+}
+.filter
+{ 
+	background-color:#B2CCFF;
+}
+.btn
+{
+	background-color :Red; 
+	padding:5px;
+	padding-left :15px;
+	padding-right :15px;
+	border :solid 1px #051E2F;
+	background-color :#184160;
+	color :White;
+	cursor :pointer; 
+}
+
+.ATT_P
+{ color:Green;}
+.ATT_PL
+{ color:#00B800;}
+.ATT_A
+{color:Red;}
+.ATT_AH
+{color:Red;}
+.ATT_L
+{color:Orange;}
+.ATT_LH
+{color:Orange;}
+
+.print_header
+{
+	background-color:#e2e2e2; font-weight:bold;
+}
+.print_footer
+{
+	background-color:#e2e2e2; font-weight:bold;
+}

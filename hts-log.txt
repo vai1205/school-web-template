@@ -1,0 +1,31 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 06 Nov 2019 22:27:25 at http://boltcloud.co.in/a12rf3078p/Home.aspx +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://boltcloud.co.in/a12rf3078p/Home.aspx -O1 "C:\Users\Shaan\Desktop\post\school" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:27:55	Error: 	"Not Found" (404) at link boltcloud.co.in/a12rf3078p/Common/images/content_bg.jpg (from boltcloud.co.in/a12rf3078p/Common/StyleSheet.css)
+22:27:55	Error: 	"Not Found" (404) at link boltcloud.co.in/a12rf3078p/POST (from boltcloud.co.in/a12rf3078p/WebResource.axd?d=WbnVD8JKPRSS686mhohvo7-ISRnaeI7O4E7AbP0eTm5p-W7kls-2C3qWDvXDykLW13k1Px7A4gYpGHpR9BhsfLuf6Dw1&t=635588822026805809)
+22:27:55	Error: 	"Not Found" (404) at link boltcloud.co.in/a12rf3078p/Firefox/ (from boltcloud.co.in/a12rf3078p/ScriptResource.axd?d=G0rqutFj6qK8Vt1e44_jriA77UtW82KQERbqFhWF6f9ucHyvfePlpvOYP9OlHHs6MV_UTtEbxFO-GEkNj0GQXuYJ_2_Q33pggINvAWfNGOUpt73Ld4eINQa7ntd3IGuL9427hKER7nuibjNF5mzCAH0DjxfqEeBY_v6D13nIAvLS3NS_0&t=2e2045e2)
+22:27:55	Error: 	"Not Found" (404) at link boltcloud.co.in/a12rf3078p/AppleWebKit/ (from boltcloud.co.in/a12rf3078p/ScriptResource.axd?d=G0rqutFj6qK8Vt1e44_jriA77UtW82KQERbqFhWF6f9ucHyvfePlpvOYP9OlHHs6MV_UTtEbxFO-GEkNj0GQXuYJ_2_Q33pggINvAWfNGOUpt73Ld4eINQa7ntd3IGuL9427hKER7nuibjNF5mzCAH0DjxfqEeBY_v6D13nIAvLS3NS_0&t=2e2045e2)
+22:27:55	Error: 	"Not Found" (404) at link boltcloud.co.in/a12rf3078p/Opera/ (from boltcloud.co.in/a12rf3078p/ScriptResource.axd?d=G0rqutFj6qK8Vt1e44_jriA77UtW82KQERbqFhWF6f9ucHyvfePlpvOYP9OlHHs6MV_UTtEbxFO-GEkNj0GQXuYJ_2_Q33pggINvAWfNGOUpt73Ld4eINQa7ntd3IGuL9427hKER7nuibjNF5mzCAH0DjxfqEeBY_v6D13nIAvLS3NS_0&t=2e2045e2)
+22:27:57	Warning: 	Retry after error 500 (Internal Server Error) at link boltcloud.co.in/a12rf3078p/StudentDetails.aspx?SId=15 (from boltcloud.co.in/a12rf3078p/StudentMaster.aspx)
+22:27:57	Warning: 	Retry after error 500 (Internal Server Error) at link boltcloud.co.in/a12rf3078p/StudentDetails.aspx?SId=16 (from boltcloud.co.in/a12rf3078p/StudentMaster.aspx)
+22:27:57	Warning: 	Retry after error 500 (Internal Server Error) at link boltcloud.co.in/a12rf3078p/StudentDetails.aspx?SId=13 (from boltcloud.co.in/a12rf3078p/StudentMaster.aspx)
+22:27:57	Warning: 	Retry after error 500 (Internal Server Error) at link boltcloud.co.in/a12rf3078p/StudentDetails.aspx?SId=14 (from boltcloud.co.in/a12rf3078p/StudentMaster.aspx)
+22:28:00	Error: 	"Not Found" (404) at link boltcloud.co.in/a12rf3078p/MicrosoftAjaxWebForms.js (from boltcloud.co.in/a12rf3078p/ScriptResource.axd?d=9OKqSdPpn3-XGlT28mg6hDSDMVOMntSHNguwesLElv2VnSfaRVO8h8KTIVnHlWgz4Ruq-nAKa6kfIqTlCpHiZhlm6dTvI8dFewi6Wrr6RgrFyniFjK3JVRnz_HtIYVeSwrN6HQ2&t=fffffffffb83206a)
+22:28:00	Error: 	"Not Found" (404) at link boltcloud.co.in/a12rf3078p/MicrosoftAjaxSerialization.js (from boltcloud.co.in/a12rf3078p/ScriptResource.axd?d=9OKqSdPpn3-XGlT28mg6hDSDMVOMntSHNguwesLElv2VnSfaRVO8h8KTIVnHlWgz4Ruq-nAKa6kfIqTlCpHiZhlm6dTvI8dFewi6Wrr6RgrFyniFjK3JVRnz_HtIYVeSwrN6HQ2&t=fffffffffb83206a)
+22:28:00	Error: 	"Not Found" (404) at link boltcloud.co.in/a12rf3078p/MicrosoftAjaxNetwork.js (from boltcloud.co.in/a12rf3078p/ScriptResource.axd?d=9OKqSdPpn3-XGlT28mg6hDSDMVOMntSHNguwesLElv2VnSfaRVO8h8KTIVnHlWgz4Ruq-nAKa6kfIqTlCpHiZhlm6dTvI8dFewi6Wrr6RgrFyniFjK3JVRnz_HtIYVeSwrN6HQ2&t=fffffffffb83206a)
+22:28:00	Warning: 	Retry after error 500 () at link boltcloud.co.in/a12rf3078p/StudentDetails.aspx?SId=15 (from boltcloud.co.in/a12rf3078p/StudentMaster.aspx)
+22:28:00	Warning: 	Retry after error 500 () at link boltcloud.co.in/a12rf3078p/StudentDetails.aspx?SId=16 (from boltcloud.co.in/a12rf3078p/StudentMaster.aspx)
+22:28:00	Warning: 	Retry after error 500 () at link boltcloud.co.in/a12rf3078p/StudentDetails.aspx?SId=13 (from boltcloud.co.in/a12rf3078p/StudentMaster.aspx)
+22:28:00	Warning: 	Retry after error 500 () at link boltcloud.co.in/a12rf3078p/StudentDetails.aspx?SId=14 (from boltcloud.co.in/a12rf3078p/StudentMaster.aspx)
+22:28:01	Error: 	"" (500) after 2 retries at link boltcloud.co.in/a12rf3078p/StudentDetails.aspx?SId=15 (from boltcloud.co.in/a12rf3078p/StudentMaster.aspx)
+22:28:01	Error: 	"" (500) after 2 retries at link boltcloud.co.in/a12rf3078p/StudentDetails.aspx?SId=16 (from boltcloud.co.in/a12rf3078p/StudentMaster.aspx)
+22:28:01	Error: 	"" (500) after 2 retries at link boltcloud.co.in/a12rf3078p/StudentDetails.aspx?SId=13 (from boltcloud.co.in/a12rf3078p/StudentMaster.aspx)
+22:28:01	Error: 	"" (500) after 2 retries at link boltcloud.co.in/a12rf3078p/StudentDetails.aspx?SId=14 (from boltcloud.co.in/a12rf3078p/StudentMaster.aspx)
+
+HTTrack Website Copier/3.49-2 mirror complete in 36 seconds : 76 links scanned, 55 files written (2026104 bytes overall) [732919 bytes received at 20358 bytes/sec], 1769519 bytes transferred using HTTP compression in 43 files, ratio 24%
+(12 errors, 8 warnings, 0 messages)
